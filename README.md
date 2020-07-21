@@ -4,10 +4,8 @@
 
 <a href="https://twitter.com/elmersc">
   <img align="left" alt="elmer san | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a><br>
-you can find me :point_down: :
-- [Instagram](https://instagram.com/elmersc11)
-- [Twitter](https://twitter.com/elmersc11)
+</a>
+<br/>
 
 ```javascript
 const elmer = {
@@ -15,3 +13,6 @@ const elmer = {
   tools: [React, Redux, Node, Styled-Components], 
 }
 ```
+you can find me :point_down: :
+- [Instagram](https://instagram.com/elmersc11)
+- [Twitter](https://twitter.com/elmersc11)
