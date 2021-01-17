@@ -10,5 +10,5 @@ const elmer = {
 }
 ```
 you can find me :point_down: :
-- [Instagram](https://instagram.com/elmersc11)
-- [Twitter](https://twitter.com/elmersc11)
+- [Instagram](https://instagram.com/elmersaan)
+- [Twitter](https://twitter.com/elmersaan)
