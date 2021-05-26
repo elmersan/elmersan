@@ -4,10 +4,7 @@
 <br/>
 
 ```javascript
-const elmer = {
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Redux, Node, Styled-Components], 
-}
+hola mundo
 ```
 you can find me :point_down: :
 - [Instagram](https://instagram.com/elmersaan)
